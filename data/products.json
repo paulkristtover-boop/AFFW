@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Urban Runner",
+    "category": "sneakers",
+    "price": 45000,
+    "oldPrice": 52000,
+    "image": "https://images.unsplash.com/photo-1606107557195-0e29a4b5b4aa?w=500&h=500&fit=crop",
+    "badge": "sale",
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "stock": 25,
+    "description": "Lightweight performance sneakers with premium materials."
+  },
+  {
+    "id": 2,
+    "name": "Classic Oxford",
+    "category": "formal",
+    "price": 68000,
+    "oldPrice": null,
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=500&h=500&fit=crop",
+    "badge": "new",
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "stock": 18,
+    "description": "Hand-finished leather oxfords for formal occasions."
+  },
+  {
+    "id": 3,
+    "name": "Heritage Boot",
+    "category": "boots",
+    "price": 85000,
+    "oldPrice": null,
+    "image": "https://images.unsplash.com/photo-1520639888713-7851133b1ed0?w=500&h=500&fit=crop",
+    "badge": null,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "stock": 12,
+    "description": "Durable, weather-ready boots inspired by classic workwear."
+  },
+  {
+    "id": 4,
+    "name": "City Sneaker",
+    "category": "sneakers",
+    "price": 38000,
+    "oldPrice": null,
+    "image": "https://images.unsplash.com/photo-1595950653106-6c9ebd614d3a?w=500&h=500&fit=crop",
+    "badge": "new",
+    "sizes": [
+      39,
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "stock": 30,
+    "description": "Everyday urban sneakers with cushioned sole."
+  },
+  {
+    "id": 5,
+    "name": "Leather Loafer",
+    "category": "formal",
+    "price": 55000,
+    "oldPrice": 62000,
+    "image": "https://images.unsplash.com/photo-1533867617858-e7b97e060509?w=500&h=500&fit=crop",
+    "badge": "sale",
+    "sizes": [
+      40,
+      41,
+      42,
+      43
+    ],
+    "stock": 15,
+    "description": "Slip-on leather loafers for smart-casual looks."
+  },
+  {
+    "id": 6,
+    "name": "Trail Boot",
+    "category": "boots",
+    "price": 72000,
+    "oldPrice": null,
+    "image": "https://images.unsplash.com/photo-1608256246200-53e635b5b65f?w=500&h=500&fit=crop",
+    "badge": null,
+    "sizes": [
+      41,
+      42,
+      43,
+      44,
+      45
+    ],
+    "stock": 10,
+    "description": "Rugged trail boots built for comfort and grip."
+  },
+  {
+    "id": 7,
+    "name": "Summer Sandal",
+    "category": "sandals",
+    "price": 28000,
+    "oldPrice": null,
+    "image": "https://images.unsplash.com/photo-1603487742131-4160ec999306?w=500&h=500&fit=crop",
+    "badge": "new",
+    "sizes": [
+      38,
+      39,
+      40,
+      41,
+      42,
+      43
+    ],
+    "stock": 40,
+    "description": "Breathable summer sandals with soft straps."
+  },
+  {
+    "id": 8,
+    "name": "Minimal Slip-On",
+    "category": "sneakers",
+    "price": 42000,
+    "oldPrice": null,
+    "image": "https://images.unsplash.com/photo-1560769629-975ec94e6a86?w=500&h=500&fit=crop",
+    "badge": null,
+    "sizes": [
+      40,
+      41,
+      42,
+      43,
+      44
+    ],
+    "stock": 22,
+    "description": "Clean minimal slip-ons for effortless style."
+  }
+]
